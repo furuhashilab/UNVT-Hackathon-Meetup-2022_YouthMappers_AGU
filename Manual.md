@@ -11,6 +11,7 @@
 
 ## homebrew インストール方法
 ↓このコマンドをそのままターミナルで入力
+
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
 

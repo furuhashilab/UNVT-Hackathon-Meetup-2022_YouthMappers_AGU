@@ -10,7 +10,7 @@
 [QGIS](https://qgis.org/ja/site/forusers/download.html)3.22
 
 ## homebrew インストール方法
-↓このコマンドをそのままターミナルで入力
+↓このコマンドをそのままターミナルで入力(入力する前に```cd```と入力してホームディレクトリにあることを確認)
 
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
@@ -19,3 +19,11 @@
 
 Passwordの部分はPC起動時に入力するパスワードを入力
 
+
+## nodebrew　インストール方法
+↓このコマンドをそのままターミナルで入力(入力する前に```cd```と入力してホームディレクトリにあることを確認)
+
+```curl -L git.io/nodebrew | perl - setup```
+
+
+<img width="564" alt="nodebrewダウンロード" src="https://user-images.githubusercontent.com/40018527/146682369-455ab7c8-7e20-4bea-896c-fc43b766fa25.png">

@@ -27,3 +27,17 @@ Passwordの部分はPC起動時に入力するパスワードを入力
 
 
 <img width="564" alt="nodebrewダウンロード" src="https://user-images.githubusercontent.com/40018527/146682369-455ab7c8-7e20-4bea-896c-fc43b766fa25.png">
+
+
+## Tippecanoeインストール方法
+
+```cd```
+
+```git clone https://github.com/mapbox/tippecanoe```
+
+```cd tippecanoe```
+
+```[tippecanoe] % make -j```
+
+```[tippecanoe] % sudo make install```
+

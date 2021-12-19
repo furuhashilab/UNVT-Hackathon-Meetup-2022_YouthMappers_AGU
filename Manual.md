@@ -46,6 +46,7 @@ Passwordの部分はPC起動時に入力するパスワードを入力
 ↑これでダウンロードできない場合
 
 g++とlibsqlite3をインストール
+
 ```sudo apt install build-essential```
 
 ```sudo apt install libsqlite3-dev zlib1g-dev```

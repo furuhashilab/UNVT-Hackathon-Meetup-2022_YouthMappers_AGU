@@ -2,8 +2,11 @@
 
 ## 必須ソフト
 [homebrew](https://qiita.com/zaburo/items/29fe23c1ceb6056109fd)
+
 [nodebrew](https://qiita.com/fuqda/items/1b780d7e0658fb7a3889)
+
 [Tippecanoe](https://github.com/mapbox/tippecanoe)
+
 [QGIS](https://qgis.org/ja/site/forusers/download.html)3.22
 
 ## homebrew インストール方法

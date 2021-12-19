@@ -10,6 +10,7 @@
 [QGIS](https://qgis.org/ja/site/forusers/download.html)3.22
 
 ## homebrew インストール方法
+↓このコマンドをそのままターミナルで入力
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
 

@@ -7,7 +7,7 @@
 
 [Tippecanoe](https://github.com/mapbox/tippecanoe)
 
-[QGIS](https://qgis.org/ja/site/forusers/download.html)3.22
+[QGIS](https://qgis.org/ja/site/forusers/download.html)
 
 ## homebrew インストール方法
 ↓このコマンドをそのままターミナルで入力(入力する前に```cd```と入力してホームディレクトリにあることを確認)

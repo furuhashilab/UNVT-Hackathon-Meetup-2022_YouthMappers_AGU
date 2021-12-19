@@ -31,6 +31,8 @@ Passwordの部分はPC起動時に入力するパスワードを入力
 
 ## Tippecanoeインストール方法
 
+↓このコマンドを順番に入力する()4行目からは%以降を入力すること
+
 ```cd```
 
 ```git clone https://github.com/mapbox/tippecanoe```

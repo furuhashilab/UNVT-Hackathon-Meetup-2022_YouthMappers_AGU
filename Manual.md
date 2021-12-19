@@ -17,3 +17,5 @@
 
 <img width="565" alt="homebrew インストール" src="https://user-images.githubusercontent.com/40018527/146682170-cc09d51c-f99a-4446-bd61-2ba3d13fb28a.png">
 
+Passwordの部分はPC起動時に入力するパスワードを入力
+

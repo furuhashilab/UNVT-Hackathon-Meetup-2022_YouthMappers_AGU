@@ -1,4 +1,4 @@
-## Produce編　##
+## Produce編
 
 ## 必須ソフト
 [homebrew](https://qiita.com/zaburo/items/29fe23c1ceb6056109fd)
@@ -43,3 +43,6 @@ Passwordの部分はPC起動時に入力するパスワードを入力
 
 ```[tippecanoe] % sudo make install```
 
+##　GeoJsonをベクトルタイル化する
+
+ポリゴンなどのデータをベクトルタイルに変換することで

@@ -8,11 +8,15 @@ Mapbox Studioを開き、"New Style"を選択 / Open the Mapbox Studio and selec
 
 ![customize1](https://user-images.githubusercontent.com/72395572/146740177-61a57238-94cb-483a-bbdb-6dbe0e9c7f1c.jpg)
 
-画面左上のLayerタブを選択後、+をクリック / Select the Layer tab and click + in the upper left corner of the screen
+画面左上のLayerタブを選択後、+をクリック
+
+Select the Layer tab and click + in the upper left corner of the screen
 
 ![初期画面1](https://user-images.githubusercontent.com/72395572/146738996-426a5ff1-47b3-47a5-ba93-0ffb5d950e21.jpg)
 
-"Upload data"をクリック、自分のPC上にあるMbtileデータを選択し、"Confirm"する / Click "Upload data" and select the Mbtile data and "confirm" it
+"Upload data"をクリック、自分のPC上にあるMbtileデータを選択し、"Confirm"する
+
+Click "Upload data" and select the Mbtile data and "confirm" it
 
 ## Mbtileデータをスタイリングする / Styling the Mbtile data
 
@@ -26,7 +30,9 @@ Select dataタブからStyleタブに移動し、任意のスタイルに変更�
 
 ![source1](https://user-images.githubusercontent.com/72395572/146745507-650395de-7b61-40c1-baff-19e7d9422f76.jpg)
 
-任意のスタイリングが完了したら、右上のshareからWebsite embedのリンクをコピーし、完了 / After finishing the  styling, click "Share" on the right upper corner and copy the "Website embed" link and it's completed
+任意のスタイリングが完了したら、右上のshareからWebsite embedのリンクをコピーし、完了
+
+After finishing the  styling, click "Share" on the right upper corner and copy the "Website embed" link and it's completed
 
 ![share1](https://user-images.githubusercontent.com/72395572/146745974-72d39a89-c3aa-43d4-9d96-27ab0f15eb4d.jpg)
 

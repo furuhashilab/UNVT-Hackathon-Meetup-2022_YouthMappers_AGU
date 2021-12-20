@@ -1,4 +1,5 @@
-# TippecanoeでMbtile化したデータをMapbox Studio上でスタイリングする / Styling the Mbtile data converted in Tippecanoe on Mapbox Studio
+# TippecanoeでMbtile化したデータをMapbox Studio上でスタイリングする
+Styling the Mbtile data converted in Tippecanoe on Mapbox Studio
 
 ## MbtileデータをMapbox Studioにアップロードする / Upload the Mbtile data to Mapbox Studio
 

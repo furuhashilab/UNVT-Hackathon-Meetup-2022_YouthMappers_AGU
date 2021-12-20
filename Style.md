@@ -14,11 +14,11 @@ Mapbox Studioを開き、New Styleを選択
 
 Upload dataをクリック、自分のPC上にあるMbtileデータを選択し、Confirmする
 
-アップロード完了後、そのデータ名をコピーする
+アップロード完了後、そのSourse IDをコピーする
 
 ![upload complete1](https://user-images.githubusercontent.com/72395572/146742900-3831a8c4-8c7e-428e-b8d0-c98c9de97219.jpg)
 
-
+Sourceより、Add source by IDの欄に先ほどコピーしたIDを貼り付け、Findする
 
 
 

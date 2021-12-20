@@ -52,6 +52,7 @@ g++とlibsqlite3をインストール
 ```sudo apt install libsqlite3-dev zlib1g-dev```
 
 
-##　GeoJsonをベクトルタイル化する
+##　GeoJSONをTippecanoeを使ってMbtile化
+↓Tippecanoeで入力するコマンド
 
-ポリゴンなどのデータをベクトルタイルに変換することで
+## 

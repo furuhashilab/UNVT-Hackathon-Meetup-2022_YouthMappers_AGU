@@ -24,13 +24,12 @@
 
 <img width="565" alt="homebrew インストール" src="https://user-images.githubusercontent.com/40018527/146682170-cc09d51c-f99a-4446-bd61-2ba3d13fb28a.png">
 
-<br>
-<br>
-
 Passwordの部分はPC起動時に入力するパスワードを入力
 
 type your password when you start your PC in the password field
 
+<br>
+<br>
 
 ## nodebrew　インストール方法 / How to install nodebrew
 

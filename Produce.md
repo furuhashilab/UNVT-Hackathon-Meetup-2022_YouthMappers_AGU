@@ -24,6 +24,8 @@
 
 <img width="565" alt="homebrew インストール" src="https://user-images.githubusercontent.com/40018527/146682170-cc09d51c-f99a-4446-bd61-2ba3d13fb28a.png">
 
+<br>
+<br>
 
 Passwordの部分はPC起動時に入力するパスワードを入力
 
@@ -44,6 +46,8 @@ type your password when you start your PC in the password field
 
 <img width="564" alt="nodebrewダウンロード" src="https://user-images.githubusercontent.com/40018527/146682369-455ab7c8-7e20-4bea-896c-fc43b766fa25.png">
 
+<br>
+<br>
 
 ## Tippecanoeインストール方法 / How to install Tippecanoe
 

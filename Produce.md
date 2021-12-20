@@ -85,6 +85,8 @@ install g++ and libsqlite3
 
 ```sudo apt install libsqlite3-dev zlib1g-dev```
 
+<br>
+<br>
 
 ## GeoJSONをTippecanoeを使ってMbtile化 / Convert GeoJASON to Mbtile using Tippecanoe
 
@@ -92,6 +94,8 @@ install g++ and libsqlite3
 
 ↓type this command into Tippecanoe
 
+<br>
+<br>
 
 
 

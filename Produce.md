@@ -16,6 +16,9 @@
 
 ↓type this command into terminal (before you type the command, type ```cd``` and make sure you are in home ditectory)
 
+<br>
+<br>
+
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
 
@@ -33,6 +36,8 @@ type your password when you start your PC in the password field
 
 ↓type this command into terminal (before you type the command, type ```cd``` and make sure you are in home ditectory)
 
+<br>
+<br>
 
 ```curl -L git.io/nodebrew | perl - setup```
 
@@ -45,6 +50,9 @@ type your password when you start your PC in the password field
 ↓このコマンドを順番に入力する(4行目からは%以降を入力すること）
 
 ↓type this command in order (after the fourth line, just type after the %)
+
+<br>
+<br>
 
 ```cd```
 
@@ -66,6 +74,9 @@ g++とlibsqlite3をインストール
 ↑if you can't install with this,
 
 install g++ and libsqlite3
+
+<br>
+<br>
 
 ```sudo apt install build-essential```
 

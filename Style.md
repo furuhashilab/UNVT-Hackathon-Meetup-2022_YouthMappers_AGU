@@ -18,6 +18,9 @@ Select the Layer tab and click + in the upper left corner of the screen
 
 Click "Upload data" and select the Mbtile data and "confirm" it
 
+<br>
+<br>
+
 ## Mbtileデータをスタイリングする / Styling the Mbtile data
 
 アップロード完了後、そのSource IDをコピーする / After completing the upload, copy the source ID

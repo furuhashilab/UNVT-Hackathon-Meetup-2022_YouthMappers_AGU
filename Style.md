@@ -2,9 +2,16 @@
 
 ## MbtileデータをMapbox Studioにアップロードする / Upload the Mbtile data to Mapbox Studio
 
-Mapbox Studioを開き、"New Style"を選択 / Open the Mapbox Studio and select "New style"
+Mapbox Studioを開き、"New Style"を選択
 
-任意のテンプレートを選択し、"Customize {テンプレート名}" をクリック / Select any template and click "Customize {template name}"
+Open the Mapbox Studio and select "New style"
+
+<br>
+<br>
+
+任意のテンプレートを選択し、"Customize {テンプレート名}" をクリック
+
+Select any template and click "Customize {template name}"
 
 ![customize1](https://user-images.githubusercontent.com/72395572/146740177-61a57238-94cb-483a-bbdb-6dbe0e9c7f1c.jpg)
 

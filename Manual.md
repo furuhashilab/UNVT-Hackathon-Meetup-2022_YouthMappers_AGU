@@ -54,6 +54,7 @@ g++とlibsqlite3をインストール
 
 ##　GeoJSONをTippecanoeを使ってMbtile化
 ↓Tippecanoeで入力するコマンド
+
 ```tippecanoe -zg -o ファイル名.mbtiles --drop-densest-as-needed ファイル名.geojson```
 
 <img width="730" alt="名称未設定5" src="https://user-images.githubusercontent.com/40018527/146723969-b358e794-6a88-48bb-8d30-2b5717d5b5c3.png">

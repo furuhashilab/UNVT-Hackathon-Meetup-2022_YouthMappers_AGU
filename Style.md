@@ -1,10 +1,10 @@
-# TippecanoeでMbtile化したデータをMapbox Studio上でスタイリングする
+# TippecanoeでMbtile化したデータをMapbox Studio上でスタイリングする / Styling the Mbtile data converted in Tippecanoe on Mapbox Studio
 
-## MbtileデータをMapbox Studioにアップロードする
+## MbtileデータをMapbox Studioにアップロードする / Upload the Mbtile data to Mapbox Studio
 
-Mapbox Studioを開き、New Styleを選択
+Mapbox Studioを開き、New Styleを選択 / Open the Mapbox Studio and select New style
 
-任意のテンプレートを選択し、Customize {テンプレート名} をクリック
+任意のテンプレートを選択し、Customize {テンプレート名} をクリック / 
 
 ![customize1](https://user-images.githubusercontent.com/72395572/146740177-61a57238-94cb-483a-bbdb-6dbe0e9c7f1c.jpg)
 

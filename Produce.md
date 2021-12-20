@@ -54,7 +54,8 @@ g++とlibsqlite3をインストール
 ```sudo apt install libsqlite3-dev zlib1g-dev```
 
 
-##　GeoJSONをTippecanoeを使ってMbtile化
+## GeoJSONをTippecanoeを使ってMbtile化
+
 ↓Tippecanoeで入力するコマンド
 
 # English

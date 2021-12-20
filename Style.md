@@ -27,6 +27,7 @@ Click "Upload data" and select the Mbtile data and "confirm" it
 Sourceより、Add source by IDの欄に先ほどコピーしたIDを貼り付け、Findする
 
 Select "Source" and paste the ID that you just copied into the "Add source ID" field
+<br>
 
 Select dataタブからStyleタブに移動し、任意のスタイルに変更することができる
 

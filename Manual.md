@@ -55,4 +55,4 @@ g++とlibsqlite3をインストール
 ##　GeoJSONをTippecanoeを使ってMbtile化
 ↓Tippecanoeで入力するコマンド
 
-## 
+## English

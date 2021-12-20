@@ -61,7 +61,7 @@ g++とlibsqlite3をインストール
 
 ## First step: Produce
 
-## Necessary software
+## Necessary softwares
 
 [homebrew](https://qiita.com/zaburo/items/29fe23c1ceb6056109fd)
 

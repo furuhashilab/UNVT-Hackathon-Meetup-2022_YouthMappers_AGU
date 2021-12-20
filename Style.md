@@ -20,6 +20,9 @@ Select any template and click "Customize {template name}"
 
 ![customize1](https://user-images.githubusercontent.com/72395572/146740177-61a57238-94cb-483a-bbdb-6dbe0e9c7f1c.jpg)
 
+<br>
+<br>
+
 画面左上のLayerタブを選択後、+をクリック
 
 Select the Layer tab and click + in the upper left corner of the screen

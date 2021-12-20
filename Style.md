@@ -28,7 +28,7 @@ Select the Layer tab and click + in the upper left corner of the screen
 
 "Upload data"をクリック、自分のPC上にあるMbtileデータを選択し、"Confirm"する
 
-Click "Upload data" and select the Mbtile data and "confirm" it
+Click "Upload data" and select the Mbtile data and "Confirm" it
 
 <br>
 <br>

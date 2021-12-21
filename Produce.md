@@ -95,6 +95,9 @@ install g++ and libsqlite3
 ↓(workspace)にはproduceするデータのファイルが存在する階層名、(filename)にはそのファイル名、
 
  (dataname)には該当する個々のデータ名　を入力
+ 
+ <br>
+ <br>
 
 ↓type this command into Tippecanoe
 

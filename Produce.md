@@ -120,6 +120,37 @@ install g++ and libsqlite3
 
 ![1](https://user-images.githubusercontent.com/72395572/146860311-5bba8e2d-5ac7-4ad9-85e7-d77c847f7fd5.jpg)
 
+これで一つのデータのPbf化が完了
+
+残りの該当データの数だけ、上記の工程を繰り返す
+
+<br>
+<br>
+
+this is the end of the converting of one piece of data
+
+repeat the above process for the remaining data
+
+![3](https://user-images.githubusercontent.com/72395572/146861268-e527b3bd-bba5-428f-97d7-58e94778b966.jpg)
+
+これでTippecanoeを用いてGeoJASONをPbf化する工程の完了
+
+this is the end of the process of converting GeoJASON to Pbf using Tippecanoe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

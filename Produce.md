@@ -88,14 +88,23 @@ install g++ and libsqlite3
 <br>
 <br>
 
-## GeoJSONをTippecanoeを使ってMbtile化 / Convert GeoJASON to Mbtile using Tippecanoe
+## GeoJSONをTippecanoeを使ってPbf化 / Convert GeoJASON to Pbf using Tippecanoe
 
-↓Tippecanoeで入力するコマンド
+↓このコマンドをそのままターミナルで入力(入力する前に```cd```と入力してホームディレクトリにあることを確認)
+
+↓(workspace)にはproduceするデータのファイルが存在する階層名、(filename)にはそのファイル名、(dataname)には該当する個々のデータ名　を入力
 
 ↓type this command into Tippecanoe
 
 <br>
 <br>
+
+```cd```
+
+```cd (workspace)/(filename)```
+
+```tippecanoe --no-tile-compression -z23 -Z12 -e (dataname) -y code -l layername -ai (dataname).geojson```
+
 
 
 

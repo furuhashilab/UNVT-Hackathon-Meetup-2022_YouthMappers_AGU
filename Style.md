@@ -72,8 +72,8 @@ After finishing the  styling, click "Share" on the right upper corner and copy t
 
 # Pbfバージョン / Pbf version
 
-  
-   
+<br>
+<br>
 
 ## TippecanoeでPbf化したデータをMaputunik上でスタイリングする
 

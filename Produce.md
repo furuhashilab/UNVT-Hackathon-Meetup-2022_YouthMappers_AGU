@@ -92,9 +92,19 @@ install g++ and libsqlite3
 
 ↓このコマンドをそのままターミナルで入力(入力する前に```cd```と入力してホームディレクトリにあることを確認)
 
-↓(workspace)にはproduceするデータのファイルが存在する階層名、(filename)にはそのファイル名、(dataname)には該当する個々のデータ名　を入力
+↓(workspace)にはproduceするデータのファイルが存在する階層名、(filename)にはそのファイル名、
+
+ (dataname)には該当する個々のデータ名　を入力
 
 ↓type this command into Tippecanoe
+
+ (before you type the command, type ```cd``` and make sure you are in home ditectory)
+
+ in (workspace), type the name of the place where the data file to be produced exists
+ 
+ in (filename), type the name of the data file
+ 
+ in (dataname), type the name of the individual relevant data
 
 <br>
 <br>

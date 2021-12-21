@@ -118,7 +118,8 @@ install g++ and libsqlite3
 
 ```tippecanoe --no-tile-compression -z23 -Z12 -e (dataname) -y code -l layername -ai (dataname).geojson```
 
-[1.pdf](https://github.com/furuhashilab/UNVT-Hackathon-Meetup-2022_YouthMappers_AGU/files/7749103/1.pdf)
+![1](https://user-images.githubusercontent.com/72395572/146860311-5bba8e2d-5ac7-4ad9-85e7-d77c847f7fd5.jpg)
+
 
 
 

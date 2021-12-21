@@ -88,7 +88,7 @@ install g++ and libsqlite3
 <br>
 <br>
 
-## GeoJSONをTippecanoeを使ってPbf化 / Convert GeoJASON to Pbf using Tippecanoe
+## GeoJSONをTippecanoeを使ってPbf化 / Convert GeoJSON to Pbf using Tippecanoe
 
 ↓このコマンドをそのままターミナルで入力(入力する前に```cd```と入力してホームディレクトリにあることを確認)
 

@@ -1,11 +1,13 @@
-# TippecanoeでMbtile化したデータをMapbox Studio上でスタイリングする
+# Mbtileバージョン / Mbtile version
 
-# Styling the Mbtile data converted in Tippecanoe on Mapbox Studio
+## TippecanoeでMbtile化したデータをMapbox Studio上でスタイリングする
+
+## Styling the Mbtile data converted in Tippecanoe on Mapbox Studio
 
 <br>
 <br>
 
-## MbtileデータをMapbox Studioにアップロードする / Upload the Mbtile data to Mapbox Studio
+### MbtileデータをMapbox Studioにアップロードする / Upload the Mbtile data to Mapbox Studio
 
 Mapbox Studioを開き、"New Style"を選択
 
@@ -36,7 +38,7 @@ Click "Upload data" and select the Mbtile data and "Confirm" it
 <br>
 <br>
 
-## Mbtileデータをスタイリングする / Styling the Mbtile data
+### Mbtileデータをスタイリングする / Styling the Mbtile data
 
 アップロード完了後、そのSource IDをコピーする / After completing the upload, copy the source ID
 
@@ -61,3 +63,8 @@ After finishing the  styling, click "Share" on the right upper corner and copy t
 
 ![share1](https://user-images.githubusercontent.com/72395572/146745974-72d39a89-c3aa-43d4-9d96-27ab0f15eb4d.jpg)
 
+<br>
+<br>
+<br>
+
+#Pbfバージョン / Pbf version
